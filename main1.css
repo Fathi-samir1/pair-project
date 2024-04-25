@@ -1,0 +1,122 @@
+
+.header{
+display: flex;
+justify-content: space-between;
+background-color:hsla(77, 28%, 50%, 0.534);
+margin-top: -10px;
+border-radius: 20px;
+}
+h1{
+    color: #050505;
+    
+    border-radius: 20px;
+    padding: 10px;
+}
+.inp{
+    margin-right: 250px;
+    margin-top: 19px;
+   
+    
+}
+#searchInput{
+    width: 455px;
+    height: 45px;
+    border-radius: 17px;
+    border: none;
+ 
+}
+#searchButton{
+    width: 100px;
+    height: 46px;
+    border-radius: 17px;
+    border: none;
+    margin-right: 20px;
+}
+
+.container{
+   display: block;
+    padding: 10px;
+}
+
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./img/bgh.jpg);
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+   
+}
+  #f1{
+   display: block;
+   width: 950px;
+   background-color: hsla(0, 0%, 100%, 0.534);
+   justify-content: center;
+   border-radius: 15px;
+   margin-left: 200px;
+   
+}
+#f1 .img1{
+    width: 540px;
+    height: 250px;
+    border-radius: 30px;
+    padding: 15px;
+    margin-left: 80px;
+}
+#f2{
+    display: block;
+    width: 950px;
+    background-color: hsla(0, 0%, 100%, 0.534);
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 200px;
+    
+ }
+ #f2 .img2{
+     width: 540px;
+     height: 250px;
+     border-radius: 30px;
+     padding: 15px;
+     margin-left: 80px;
+ }
+ #f3{
+    display: block;
+    width: 950px;
+    background-color: hsla(0, 0%, 100%, 0.534);
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 200px;
+ }
+ #f3 .img3{
+     width: 540px;
+     height: 250px;
+     border-radius: 30px;
+     padding: 15px;
+     margin-left: 80px;
+ }
+ #f4{
+    display: block;
+    width: 950px;
+    background-color: hsla(0, 0%, 100%, 0.534);
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 200px;
+    
+ }
+ #f4 .img4{
+     width: 540px;
+     height: 250px;
+     border-radius: 30px;
+     padding: 15px;
+     margin-left: 80px;
+ }
+.card{
+    margin-bottom: 30px;
+}
+.buy,.buy1,.buy2,.buy3{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 18px;
+    background-color:hsla(311, 42%, 56%, 0.534);
+}
